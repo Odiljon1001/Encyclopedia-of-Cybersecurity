@@ -4,7 +4,7 @@ Kiberxavfsizlik bo'yicha ta'limiy ensiklopediya. Ushbu loyiha orqali kiberhujuml
 
 ### 🌐 Jonli sayt (Live Demo)
 Loyihani brauzerda ochib ko'rish uchun quyidagi havolani bosing:
-👉 **[Saytga o'tish](https://odijon1001.github.io/Encyclopedia-of-Cybersecurity/)**
+👉 **[Saytga o'tish](https://odiljon1001.github.io/Encyclopedia-of-Cybersecurity/)**
 
 ### 📚 Bo'limlar
 *   **Hujumlar:** Mashhur kiberhujumlar va zaifliklar atlasi.
